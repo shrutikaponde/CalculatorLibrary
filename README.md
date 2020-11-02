@@ -1,2 +1,4 @@
 # CalculatorLibrary
-Example of CI using CircleCI in python.
+This is implementation of tutorial for Continuous Integration With Python Using CircleCI by Real Python.
+
+Blog reference: [Continuous Intgration With Python](https://realpython.com/python-continuous-integration/)
